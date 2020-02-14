@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="smart">SMART</string>
+    <string name="e_bike">E - BIKE</string>
+    <string name="soc">SoC</string>
+    <string name="range">Range</string>
+    <string name="speed">Speed</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
